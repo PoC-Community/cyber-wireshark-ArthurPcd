@@ -1,0 +1,2 @@
+Why can’t we see the credentials?
+cause HTTPS encrypts the HTTP request body & headers using TLS
